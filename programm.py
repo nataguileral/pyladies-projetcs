@@ -1,4 +1,4 @@
-def print_info():
-    print(input("What to print?"))
+def print_info(number: int):
+    print(input("What to print?" + str(number)))
 
 print_info()
