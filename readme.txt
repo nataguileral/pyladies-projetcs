@@ -1,2 +1,2 @@
-Hello HEDŻHOG!
+Hello!
 how are you?
