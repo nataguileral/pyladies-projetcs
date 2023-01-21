@@ -7,3 +7,5 @@ print_info()
 
 def get_cookies(number: int):
     return print("you have " + number + "cookies")
+
+# poop
