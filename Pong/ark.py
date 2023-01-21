@@ -1,4 +1,4 @@
-def hate_hedgehogs(list_orders: list[str]):
+def hate_all_hedgehogs(list_orders: list[str]):
 
     list_n: list[int] = []
 
@@ -22,7 +22,7 @@ def hate_hedgehogs(list_orders: list[str]):
             print(list_n)
 
 
-hate_hedgehogs(list(['insert 0 5',
+hate_all_hedgehogs(list(['insert 0 5',
            'insert 1 10',
            'insert 0 6',
            'print',
