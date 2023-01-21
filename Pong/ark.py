@@ -1,4 +1,4 @@
-def main(list_orders: list[str]):
+def make_hedgehog_invasion(list_orders: list[str]):
 
     list_n: list[int] = []
 
@@ -22,7 +22,7 @@ def main(list_orders: list[str]):
             print(list_n)
 
 
-main(list(['insert 0 5',
+make_hedgehog_invasion(list(['insert 0 5',
            'insert 1 10',
            'insert 0 6',
            'print',
